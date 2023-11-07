@@ -7,14 +7,14 @@ This is an Android application for managing and tracking various exercises. It o
 
 - View exercise categories on the home page.
 - Click on a category to see detailed information.
-- ...
+  
 
 ## Getting Started
 
 ### Prerequisites
 
 - Android Studio
-- ...
+  
 
 ### Installation
 
@@ -26,6 +26,6 @@ This is an Android application for managing and tracking various exercises. It o
 
 - Launch the app.
 - Select an exercise category.
-- ...
+- Cehck the instructions or description of that selected exercise in detail to follow.
 
 
